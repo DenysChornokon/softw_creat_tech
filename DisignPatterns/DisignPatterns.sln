@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFactory", "FileFactory\FileFactory.csproj", "{974F0934-F95C-43FC-A780-2729E4D26C9E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailBuilder", "MailBuilder\MailBuilder.csproj", "{AB51B142-B2CE-4A82-8DD9-D8B17DF33C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCConfigurator", "PCConfigurator\PCConfigurator.csproj", "{6FED9162-5C91-45D4-9630-9DE11FECF6DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonTask", "SingletonTask\SingletonTask.csproj", "{64240E26-614D-43BB-9F90-64DFC1239C85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{AB51B142-B2CE-4A82-8DD9-D8B17DF33C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB51B142-B2CE-4A82-8DD9-D8B17DF33C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB51B142-B2CE-4A82-8DD9-D8B17DF33C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FED9162-5C91-45D4-9630-9DE11FECF6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FED9162-5C91-45D4-9630-9DE11FECF6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FED9162-5C91-45D4-9630-9DE11FECF6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FED9162-5C91-45D4-9630-9DE11FECF6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64240E26-614D-43BB-9F90-64DFC1239C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64240E26-614D-43BB-9F90-64DFC1239C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64240E26-614D-43BB-9F90-64DFC1239C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64240E26-614D-43BB-9F90-64DFC1239C85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
