@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCConfigurator", "PCConfigu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonTask", "SingletonTask\SingletonTask.csproj", "{64240E26-614D-43BB-9F90-64DFC1239C85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageAdapter", "MessageAdapter\MessageAdapter.csproj", "{D25825E4-6CB2-4729-8B95-5420F077D5DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{64240E26-614D-43BB-9F90-64DFC1239C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64240E26-614D-43BB-9F90-64DFC1239C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64240E26-614D-43BB-9F90-64DFC1239C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25825E4-6CB2-4729-8B95-5420F077D5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25825E4-6CB2-4729-8B95-5420F077D5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25825E4-6CB2-4729-8B95-5420F077D5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25825E4-6CB2-4729-8B95-5420F077D5DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
