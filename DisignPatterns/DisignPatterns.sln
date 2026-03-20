@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonTask", "SingletonT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageAdapter", "MessageAdapter\MessageAdapter.csproj", "{D25825E4-6CB2-4729-8B95-5420F077D5DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebProxy", "WebProxy\WebProxy.csproj", "{BEC6AE9D-552E-4F91-94EF-450826252158}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D25825E4-6CB2-4729-8B95-5420F077D5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D25825E4-6CB2-4729-8B95-5420F077D5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D25825E4-6CB2-4729-8B95-5420F077D5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC6AE9D-552E-4F91-94EF-450826252158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC6AE9D-552E-4F91-94EF-450826252158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC6AE9D-552E-4F91-94EF-450826252158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC6AE9D-552E-4F91-94EF-450826252158}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
