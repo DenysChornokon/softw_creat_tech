@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageAdapter", "MessageAd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebProxy", "WebProxy\WebProxy.csproj", "{BEC6AE9D-552E-4F91-94EF-450826252158}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerFacade", "ComputerFacade\ComputerFacade.csproj", "{FD7BBE79-7021-4EBE-80BD-6668B3D4B8FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BEC6AE9D-552E-4F91-94EF-450826252158}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEC6AE9D-552E-4F91-94EF-450826252158}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEC6AE9D-552E-4F91-94EF-450826252158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD7BBE79-7021-4EBE-80BD-6668B3D4B8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7BBE79-7021-4EBE-80BD-6668B3D4B8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7BBE79-7021-4EBE-80BD-6668B3D4B8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7BBE79-7021-4EBE-80BD-6668B3D4B8FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
