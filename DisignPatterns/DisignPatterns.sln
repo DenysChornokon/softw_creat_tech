@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerFacade", "ComputerF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCreamDecorator", "IceCreamDecorator\IceCreamDecorator.csproj", "{94A37E19-0304-4FE1-8FF9-37D52E6350F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeTask", "CompositeTask\CompositeTask.csproj", "{CE80B597-F05D-41E1-A18D-ED1C233BBD47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{94A37E19-0304-4FE1-8FF9-37D52E6350F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94A37E19-0304-4FE1-8FF9-37D52E6350F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94A37E19-0304-4FE1-8FF9-37D52E6350F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE80B597-F05D-41E1-A18D-ED1C233BBD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE80B597-F05D-41E1-A18D-ED1C233BBD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE80B597-F05D-41E1-A18D-ED1C233BBD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE80B597-F05D-41E1-A18D-ED1C233BBD47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
