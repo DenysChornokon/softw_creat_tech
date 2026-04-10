@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeTask", "CompositeT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookstoreFlyweight", "BookstoreFlyweight\BookstoreFlyweight.csproj", "{C7468E7D-F710-4106-849B-165F153F6D5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainResponsibility", "ChainResponsibility\ChainResponsibility.csproj", "{3D0B645A-4B79-4860-9DCB-87BDFECDCB48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{C7468E7D-F710-4106-849B-165F153F6D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7468E7D-F710-4106-849B-165F153F6D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7468E7D-F710-4106-849B-165F153F6D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0B645A-4B79-4860-9DCB-87BDFECDCB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0B645A-4B79-4860-9DCB-87BDFECDCB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0B645A-4B79-4860-9DCB-87BDFECDCB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0B645A-4B79-4860-9DCB-87BDFECDCB48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
